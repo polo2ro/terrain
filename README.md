@@ -1,6 +1,6 @@
 # Fantasy Map Generator
 
-This work is based on that of [http://github.com/mewo2/](mewo2), combining his `language.js` and `terrain.js` projects.
+This work is based on that of [https://github.com/mewo2/](mewo2), combining his `language.js` and `terrain.js` projects.
 
 ## From mewo2's original readme
 
