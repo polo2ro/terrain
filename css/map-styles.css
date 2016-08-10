@@ -18,11 +18,11 @@ path, line {
 }
 
 .coast {
-  stroke-width: 4;
+  stroke-width: 3;
 }
 
 .border {
-  stroke-width: 5;
+  stroke-width: 2;
   stroke-dasharray: 4,4;
   stroke-linecap: butt;
 }
